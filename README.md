@@ -20,3 +20,5 @@ https://stackoverflow.com/questions/20457290/installing-r-with-homebrew
 |----------|:-------------:|
 | 2019-03-29 | week1 - 전체적인 내용 및 설치, R Lang 기본적인 내용 수업 |
 | 2019-04-05 | week2 - R Data Types (list, vector, data frame, data table) |
+| 2019-04-12 | week3 - 데이터 import 후 분산, 평균, 편차 분석 관련 내용 |
+| 2019-05-03 | week9 - 상관관계 분석에 관련된 Basic Contents |
