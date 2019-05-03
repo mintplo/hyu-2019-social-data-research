@@ -17,4 +17,4 @@ round(data_cor, 2)
 # Correlation Plotting with each options
 corrplot(data_cor, diag=F)
 corrplot(data_cor, method="number")
-corrplot(data_cor, method="number", type="lower", diaㅂg=F)
+corrplot(data_cor, method="number", type="lower", diag=F)
