@@ -22,3 +22,18 @@ https://stackoverflow.com/questions/20457290/installing-r-with-homebrew
 | 2019-04-05 | week2 - R Data Types (list, vector, data frame, data table) |
 | 2019-04-12 | week3 - 데이터 import 후 분산, 평균, 편차 분석 관련 내용 |
 | 2019-05-03 | week9 - 상관관계 분석에 관련된 Basic Contents |
+| 2019-05-10 | week10 - Basic and 데이터 조작 및 추출 관련 함수 |
+
+## Miscellaneous
+
+### 데이터 타입
+- 벡터: `c()`
+- 행렬: `matirx()`
+- 배열: `array()`
+- 데이터프레임: `data.frame()`
+- 리스트: `list()`
+
+### 데이터의 행과 열 합치기
+분리되어 저장된 데이터를 합치는데 유용하게 사용한다.
+- `rbind()`
+- `cbind()`
