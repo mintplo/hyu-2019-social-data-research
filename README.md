@@ -23,6 +23,7 @@ https://stackoverflow.com/questions/20457290/installing-r-with-homebrew
 | 2019-04-12 | week3 - 데이터 import 후 분산, 평균, 편차 분석 관련 내용 |
 | 2019-05-03 | week9 - 상관관계 분석에 관련된 Basic Contents |
 | 2019-05-10 | week10 - Basic and 데이터 조작 및 추출 관련 함수 |
+| 2019-05-17 | week11 - Plot, Mfrow, Jitter, Points, Identify, Legend 등의 함수 사용법 |
 
 ## Miscellaneous
 
