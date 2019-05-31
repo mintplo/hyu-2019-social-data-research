@@ -25,6 +25,7 @@ https://stackoverflow.com/questions/20457290/installing-r-with-homebrew
 | 2019-05-10 | week10 - Basic and 데이터 조작 및 추출 관련 함수 |
 | 2019-05-17 | week11 - Plot, Mfrow, Jitter, Points, Identify, Legend 등의 함수 사용법 |
 | 2019-05-24 | week12 - T-검정, 분산분석, 회귀분석 |
+| 2019-05-24 | 회귀 분석 변수 선택 (step forward, backward, both) + 판별 분석 |
 
 ## Miscellaneous
 
