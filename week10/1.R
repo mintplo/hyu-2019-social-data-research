@@ -1,6 +1,8 @@
 swiss # Dataset
 str(swiss) #
 
+?cbind
+
 head(swiss, 10) # 데이터의 머리부터 N개를 본다.
 tail(swiss, 5) # 데이터의 꼬리부터 N개를 본다.
 summary(swiss)
