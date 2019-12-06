@@ -41,3 +41,13 @@ https://stackoverflow.com/questions/20457290/installing-r-with-homebrew
 분리되어 저장된 데이터를 합치는데 유용하게 사용한다.
 - `rbind()`
 - `cbind()`
+
+&nbsp;
+--------
+
+The source code of *mintplo* is primarily distributed under the terms
+of the [GNU Affero General Public License v3.0] or any later version. See
+[COPYRIGHT] for details.
+
+[GNU Affero General Public License v3.0]: LICENSE
+[COPYRIGHT]: COPYRIGHT
